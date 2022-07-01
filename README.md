@@ -22,37 +22,3 @@ Open source weather app for Android.
 [<img src="http://i.imgur.com/WVFXEoo.png" alt="Good Weather preview" width="200">](http://i.imgur.com/WVFXEoo.png)
 [<img src="http://i.imgur.com/pDjCCqo.png" alt="Good Weather preview" width="200">](http://i.imgur.com/pDjCCqo.png)
 [<img src="http://i.imgur.com/lQKKBYY.png" alt="Good Weather preview" width="200">](http://i.imgur.com/lQKKBYY.png)
-
-## To-Do
-- [ ] Add weather map
-- [ ] Improve accessibility for people with disabilities
-
-## Donations
-If you would like to help, you can donate Bitcoin on ```1FV8m1MKqZ9ZKB8YNwpsjsuubHTznJSiT8``` address.
-
-Or scan QR code with help Bitcoin app:
-<img src="http://i.imgur.com/pqG48LZ.png" alt="QR code Bitcoin address" width="100" height="100" />
-
-Thanks!
-
-## List of contributors
-[berian](https://github.com/beriain), [mahula](https://github.com/mahula), [naofum](https://github.com/naofum), [thuryn](https://github.com/thuryn)
-
-## License
-```
-Good Weather. App displays weather information.
-Copyright (C) 2015-2017 Eugene Kislyakov <aiqcms@gmail.com>
-
-This program is free software: you can redistribute it and/or modify
-it under the terms of the GNU General Public License as published by
-the Free Software Foundation, either version 3 of the License, or
-(at your option) any later version.
-
-This program is distributed in the hope that it will be useful,
-but WITHOUT ANY WARRANTY; without even the implied warranty of
-MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
-GNU General Public License for more details.
-
-You should have received a copy of the GNU General Public License
-along with this program.  If not, see <http://www.gnu.org/licenses/>.
-```
